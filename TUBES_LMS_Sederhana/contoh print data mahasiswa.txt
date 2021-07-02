@@ -1,0 +1,4 @@
+Nim	Nama	Email	Password
+113	Dummy	dummy@telU.com	12345678
+114	Joni	joni@telU.com	12345678
+115	jeje	jeje@telU.com	12345678
